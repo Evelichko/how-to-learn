@@ -198,7 +198,7 @@ padding: 0;
 }
 .feynman__foto {
 height: 637px;
-width: 863px;
+width: 867px;
 position: absolute;
 z-index: 1;
 bottom: 0;
@@ -343,6 +343,11 @@ padding: 0;
   color: white;
   margin: 0;
   padding: 0;
+}
+.footer-column-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 .footer__column-link {
   padding: 0 auto 0;
